@@ -1,6 +1,7 @@
 # Bugking
 
-Pràctica de ECSDI de Aleix Linares, Sergi Vidiella i Pau Ponsa
+Pràctica de ECSDI de Aleix Linares, Sergi Vidiella i Pau Ponsa. És un creador de paquets de viatges segons dades introduides
+per l'usuari. En aquesta versió el destí està limitat a un parell de ciutats.
 
 ## Requirements
 
